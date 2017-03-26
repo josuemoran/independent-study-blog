@@ -1,6 +1,6 @@
 # Entry 1: Intro / Plan
 
-After parousing the topics for indpendednt study, I concluded on **Databases**. Althoug I've already landed on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby app; this was a school project to create an interactive game within the console of ruby using classes. While making this app I had thought how cool it would be to create an application where animal shelters can make accounts for thier rescue animals and people in the area can set up play-dates with the pet to potentially adoopt. I called this idea Match.com for dogs, because I wanted to focus on dogs mainly.
+After pursuing the topics for independent study, I concluded on **Databases**. Although I've already landed on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby app; this was a school project to create an interactive game within the console of ruby using classes. While making this app I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
 
 ## Puppr
 
