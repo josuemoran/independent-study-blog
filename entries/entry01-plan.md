@@ -6,6 +6,7 @@ After parousing the topics for indpendednt study, I concluded on **Databases**. 
 
 <img src="../images/doggo1.jpg" style="width: 100px;"/>
 The name Puppr came from the idea of Match.com for dogs, when I just randomly bounced named off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr, and saw it as a viable product in the future.
+<!---->
 
 
 text
