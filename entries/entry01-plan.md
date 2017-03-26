@@ -8,16 +8,16 @@ After pursuing the topics for independent study, I concluded on **Databases**. A
 <img src="../images/doggo2.jpg"/>
 The name Puppr came from the idea of Match.com for dogs, when I just randomly bounced named off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr, and saw it as a viable product in the future.
 
-#### The Problem: Rescues needing a new way to find homes
+### The Problem: Rescues needing a new way to find homes
 
-#### The Solution: Play dates can be setup with parrticipationg shelters
+### The Solution: Play dates can be setup with parrticipationg shelters
 
 In a sense, I feel connected to this concept because there hasn’t been any application that offers the service that I envision. The reasoning for the play dates with the rescue isn’t just for the ultimate goal of adoption, but to give the rescues hope while waiting for adoption. Not only would setting up play dates make the rescues happier, but citizens too; especially ones who cannot have a pet in their apartment.  
 
 
 ## My First Attempt at Databases
 
-#### First of all, tutorials are hard...especially if they're a code-along written in 2013.
+### First of all, tutorials are hard...especially if they're a code-along written in 2013.
 
 I tried to follow this **[tutorial](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/#.WNcu9Tvys2w)**, but not only did it have one or two syntax errors, it also seemed to be outdated! I ended up giving up halfway through because it just got too frustrating to continue. 
 
