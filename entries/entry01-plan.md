@@ -1,10 +1,12 @@
 # Entry 1: Intro / Plan
 
-type text here
+After parousing the topics for indpendednt study, I concluded on **Databases**. Althoug I've already landed on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby app; this was a school project to create an interactive game within the console of ruby using classes. While making this app I had thought how cool it would be to create an application where animal shelters can make accounts for thier rescue animals and people in the area can set up play-dates with the pet to potentially adoopt. I called this idea Match.com for dogs, because I wanted to focus on dogs mainly.
 
-## text
+## Puppr
 
-text
+<img src="doggo1.jpg" style="width: 300px;"/>
+The name Puppr came from the idea of Match.com for dogs, when I just randomly bounced named off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr, and saw it as a viable product in the future.
+
 
 text
 

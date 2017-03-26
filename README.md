@@ -1,4 +1,4 @@
-# API Independent Study
+# Databases Independent Study
 
 ## Table of contents
 
