@@ -1,16 +1,16 @@
 # Entry 1: Intro / Plan
 
-After pursuing the topics for independent study, I concluded on **Databases**. Although I've already landed on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby app; this was a school project to create an interactive game within the console of ruby using classes. While making this app I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
+After perusing the topics for independent study offered, I concluded on **Databases**, although I've already decided on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby game (this was a school project to create an interactive game within the console of ruby using classes). While making that game, I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
 
 
 ## Puppr
 
 <img src="../images/doggo2.jpg"/>
-The name Puppr came from the idea of Match.com for dogs, when I just randomly bounced named off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr, and saw it as a viable product in the future.
+The name Puppr came from the idea of Match.com for dogs, when I randomly bounced names off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr and saw it as a viable product in the future.
 
 ### The Problem: Rescues needing a new way to find homes
 
-### The Solution: Play dates can be setup with parrticipationg shelters
+### The Solution: Play dates can be setup with participating shelters
 
 In a sense, I feel connected to this concept because there hasn’t been any application that offers the service that I envision. The reasoning for the play dates with the rescue isn’t just for the ultimate goal of adoption, but to give the rescues hope while waiting for adoption. Not only would setting up play dates make the rescues happier, but citizens too; especially ones who cannot have a pet in their apartment.  
 
@@ -27,7 +27,8 @@ Instead, I found a YouTube video titled **["SQL for Beginners. Learn basics of S
 
 1. When browsing for a tutorial, choose something that is at most **two** years old if it involves code. A lot can happen in two years.
 2. Keep a mental list, or physical (**[Google Keep](https://keep.google.com/)** is a personal favorite) of different app ideas that can solve mundane problems, or solve world hunger!
-3. Don't let your frustration hold you back from what you think of, in terms of programming. I spent 30 minutes on just figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun.
+3. Don't let your frustration hold you back from what you think of, in terms of programming. I spent 30 minutes on figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun. 
+Ps. It was `<img src="imageName.jpg"/>` to embed an image for markdown, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
 
 3/25/2017
 <!--[Next](entry02.md)-->
