@@ -1,6 +1,6 @@
 # Entry 1: Intro / Plan
 
-## How It Came o Be
+## How It Came To Be
 
 After perusing the topics for independent study offered, I concluded on **Databases**, although I've already decided on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby game (this was a school project to create an interactive game within the console of ruby using classes). While making that game, I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
 
@@ -28,9 +28,11 @@ Instead, I found a YouTube video titled **["SQL for Beginners. Learn basics of S
 ## Takeaways
 
 1. When browsing for a tutorial, choose something that is at most **two** years old if it involves code. A lot can happen in two years.
-2. Keep a mental list, or physical (**[Google Keep](https://keep.google.com/)** is a personal favorite) of different app ideas that can solve mundane problems, or solve world hunger!
-3. Don't let your frustration hold you back from what you think of, in terms of programming. I spent 30 minutes on figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun. 
-Ps. It was `<img src="imageName.jpg"/>` to embed an image for markdown, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
+
+2. Keep a mental, or physical, list of different app ideas that can solve mundane problems, or solve world hunger! (**[Google Keep](https://keep.google.com/)** is a personal favorite).
+
+3. Don't let your frustration hold you back from what you think of in terms of programming. I spent 30 minutes on figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun. 
+    > P.S. To embed an image for markdown it was `<img src="imageName.jpg"/>`, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
 
 3/25/2017
 <!--[Next](entry02.md)-->
