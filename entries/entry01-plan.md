@@ -29,7 +29,7 @@ Instead, I found a YouTube video titled **["SQL for Beginners. Learn basics of S
 
 1. When browsing for a tutorial, choose something that is at most **two** years old if it involves code. A lot can happen in two years.
 
-2. Keep a mental, or physical, list of different app ideas that can solve mundane problems, or solve world hunger! (**[Google Keep](https://keep.google.com/)** is a personal favorite).
+2. Keep a mental, or physical, list of different app ideas that can solve mundane problems, or solve world hunger! (**[Google Keep](https://www.google.com/keep/)** is a personal favorite).
 
 3. Don't let your frustration hold you back from what you think of in terms of programming. I spent 30 minutes on figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun. 
     > P.S. To embed an image for markdown it was `<img src="imageName.jpg"/>`, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
