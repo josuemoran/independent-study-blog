@@ -3,7 +3,7 @@
 ## Table of contents
 
 + [Entry 1: Intro / Plan](entries/entry01-plan.md)
-+ Entry 2:
++ [Entry 2: Databases are Hard](entries/entry02-databases.md)
 + Entry 3: 
 + Entry 4: 
 + Entry 5: 

@@ -10,8 +10,9 @@ What is an **MVP**, you're probably asking. Well, in my software engineering cla
 
 I think I'm really happy at where I'm at with my build. I even decided to make a logo for Puppr, when I decided to take a break from coding, and it wasn't that hard. The logo consists of two basic shapes really, circles and triangles. This is still my first draft of it, so I still need to smooth out any rough edges, but I'll worry about that when I plan on releasing a build to the public.
 
-Pic here
+P
 
 
 ## Takeaways
 
+The only real takeaway I have today is that, do something you're passionate for, and by that I mean, if you're planning on doing a build for 9 weeks, make sure you get excited every time you see the code, and can't wait to finish, because it is something you're really proud of.
