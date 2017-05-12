@@ -1,25 +1,23 @@
-# Entry 1: Intro / Plan
+# Entry 4: ActiveRecord vs. SQL
 
-## How It Came To Be
+## What is ActiveRecord
 
 After perusing the topics for independent study offered, I concluded on **Databases**, although I've already decided on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby game (this was a school project to create an interactive game within the console of ruby using classes). While making that game, I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
 
 
-## Puppr
+## What is SQL
 
 <img src="../images/doggo2.jpg"/>
 The name Puppr came from the idea of Match.com for dogs, when I randomly bounced names off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr and saw it as a viable product in the future.
 
-### The Problem: Rescues needing a new way to find homes
-
-### The Solution: Play dates can be setup with participating shelters
-
-In a sense, I feel connected to this concept because there hasn’t been any application that offers the service that I envision. The reasoning for the play dates with the rescue isn’t just for the ultimate goal of adoption, but to give the rescues hope while waiting for adoption. Not only would setting up play dates make the rescues happier, but citizens too; especially ones who cannot have a pet in their apartment.  
+### Pros: 
 
 
-## My First Attempt at Databases
+### Cons:
 
-### First of all, tutorials are hard...especially if they're a code-along written in 2013.
+## What I'm choosing for Puppr
+
+### ActiveRecord takes the cake
 
 I tried to follow this **[tutorial](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/#.WNcu9Tvys2w)**, but not only did it have one or two syntax errors, it also seemed to be outdated! I ended up giving up halfway through because it just got too frustrating to continue. 
 
@@ -35,6 +33,6 @@ Instead, I found a YouTube video titled **["SQL for Beginners. Learn basics of S
     > P.S. To embed an image for markdown it was `<img src="imageName.jpg"/>`, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
 
 3/25/2017
-[Next](entry02-databases.md)
+[Next](entry05-rubyonrails.md)
 
 [Table of Contents](../README.md)

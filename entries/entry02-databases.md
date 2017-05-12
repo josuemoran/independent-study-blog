@@ -15,3 +15,8 @@ I think I'm really happy at where I'm at with my build. I even decided to make a
 ## Takeaways
 
 The only real takeaway I have today is that, do something you're passionate for, and by that I mean, if you're planning on doing a build for 9 weeks, make sure you get excited every time you see the code, and can't wait to finish, because it is something you're really proud of.
+
+3/25/2017
+[Next](entry03-stepback.md)
+
+[Table of Contents](../README.md)

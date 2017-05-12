@@ -1,6 +1,6 @@
-# Entry 1: Intro / Plan
+# Entry 3: Lets Take A Step Back
 
-## How It Came To Be
+## Why I need a break from Puppr.
 
 After perusing the topics for independent study offered, I concluded on **Databases**, although I've already decided on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby game (this was a school project to create an interactive game within the console of ruby using classes). While making that game, I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
 
@@ -35,6 +35,6 @@ Instead, I found a YouTube video titled **["SQL for Beginners. Learn basics of S
     > P.S. To embed an image for markdown it was `<img src="imageName.jpg"/>`, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
 
 3/25/2017
-[Next](entry02-databases.md)
+[Next](entry04-arVsSql.md)
 
 [Table of Contents](../README.md)
