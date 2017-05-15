@@ -1,4 +1,4 @@
-# Entry 6: Thank You Rails
+# Entry 6: Thank You For Nothing
 
 ## Why CodeCademy sucks
 
