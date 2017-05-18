@@ -2,7 +2,7 @@
 
 ## Why CodeCademy sucks
 
-I've been trying to learn Ruby on Rails there and I genuinley hate it. None of the tests work, nothing works. I litterally copy and paste the code it tells me to write and it doesn't work! 
+I've been trying to learn Ruby on Rails there and I genuinely hate it. None of the tests work, nothing works. I litterally copy and paste the code it tells me to write and it doesn't work! 
 I click "give me code" after it realizes I've been having trouble write: 
 ```
 <div class="main">

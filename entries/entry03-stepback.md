@@ -2,39 +2,36 @@
 
 ## Why I need a break from Puppr.
 
-After perusing the topics for independent study offered, I concluded on **Databases**, although I've already decided on this topic a while ago when making my **[Doggo](https://github.com/josuemoran/doggo)** ruby game (this was a school project to create an interactive game within the console of ruby using classes). While making that game, I had thought how cool it would be to create an application where animal shelters can make accounts for their rescue animals and people in the area can set up play-dates with the pet to potentially adopt. I called this idea Match.com for dogs because I wanted to focus on dogs mainly.
+After being overloaded with information about SQL, I've decided I wanted to takw a step back.
+Now, what does that actually entail?
+For me, I want to start working on Puppr again when I have all the right tools and components to piece everything together.
 
+#### You cannot bake a cake with half a recipe
 
-## Puppr
+So why try to finish Puppr so early on when I can't even finish the login screen?
 
-<img src="../images/doggo2.jpg"/>
-The name Puppr came from the idea of Match.com for dogs, when I randomly bounced names off of my peers, and Puppr seemed to fit. Although a generic play on the "r" added to company names to sound trendy (ex: Uber, Tinder, Giftr), I fell in love with the name Puppr and saw it as a viable product in the future.
+## What will I be doing moving forward?
 
-### The Problem: Rescues needing a new way to find homes
+I've decided that in order to work on Puppr, I need to learn ActiveRecord. Learning SQL and how to write tables were fun and I thought it was useful, but turns out that ActiveRecord is WAAAAAYYYYY easier, because it takes out all the hard work for you. 
 
-### The Solution: Play dates can be setup with participating shelters
+I essentially wasited some time learning SQL thinking it would be easier to just write the commands myself, but time is running out!
 
-In a sense, I feel connected to this concept because there hasn’t been any application that offers the service that I envision. The reasoning for the play dates with the rescue isn’t just for the ultimate goal of adoption, but to give the rescues hope while waiting for adoption. Not only would setting up play dates make the rescues happier, but citizens too; especially ones who cannot have a pet in their apartment.  
+## What are the differences with SQL and ActiveRecord
 
+THat will be covered in next week's blog, as I don't know enough to really talk about it, except that it seems easier to work with.
 
-## My First Attempt at Databases
+As of now, I can leave these helpful links for learning SQL if that is something you find interesting.
 
-### First of all, tutorials are hard...especially if they're a code-along written in 2013.
+The first one is by [Microsoft](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944?l=w7qq6nAID_6805121157
+) and is more of a teach along, where it is split in mini videos explaining different concepts and how to write SQL. 
 
-I tried to follow this **[tutorial](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/#.WNcu9Tvys2w)**, but not only did it have one or two syntax errors, it also seemed to be outdated! I ended up giving up halfway through because it just got too frustrating to continue. 
+This next one is by the [Stanford University](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) and is a self-paced course, but one that is intense because the "estimated effor" for this course is about 8-12 hours a week.
 
-Instead, I found a YouTube video titled **["SQL for Beginners. Learn basics of SQL in 1 Hour"](https://www.youtube.com/watch?v=7Vtl2WggqOg)**, which ended up being a ripped **[Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)** video uploaded on YouTube. I found this SO much more helpful than the tutorial code-along. Even though I didn't finish Khan Academy's video, I do see myself benefitting off of it a lot more in the future while building my Puppr app.
+Both of these were sent to me by Raquel Cardona, the recently appointed Director of Strategic Initiatives for CS4all at the DOE.
 
 ## Takeaways
+This week's takeaway is to not jump headfirst into new topics without doing enough research. I thought that databases I'd learn some SQL and I'd be done, but that was not the case, as I cannot even write SQL.
 
-1. When browsing for a tutorial, choose something that is at most **two** years old if it involves code. A lot can happen in two years.
-
-2. Keep a mental, or physical, list of different app ideas that can solve mundane problems, or solve world hunger! (**[Google Keep](https://www.google.com/keep/)** is a personal favorite).
-
-3. Don't let your frustration hold you back from what you think of in terms of programming. I spent 30 minutes on figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun. 
-    > P.S. To embed an image for markdown it was `<img src="imageName.jpg"/>`, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
-
-3/25/2017
 [Next](entry04-arVsSql.md)
 
 [Table of Contents](../README.md)
