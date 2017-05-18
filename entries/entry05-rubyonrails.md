@@ -2,36 +2,32 @@
 
 ## Let's take another step back
 
-text text text
+Before I go all willy-nilly learning ActiveRecord, I need to also learn Ruby on Rails, because as I confused it last week, ActiveRecord was meant FOR RAILS. So, it would be a good decision to learn one language before I go learning others
 
 
 ## Why am I learning Rails?
 
-<img src="../images/doggo2.jpg"/>
-text text text
+I have also been thinking of starting from scrath, in terms of creating all the file for Puppr instead of using templates that I keep from past projects. The reason being is that in Rails there is a "rails generate" command that builds that appropraite files needed. I can have migration files created, page and app controller files generated, I can have seeds made. Like AR, Rails looks like it would suite me better abd be easier to work with. Also, Rails has soooo much more functionality compared to average old Ruby.
 
 ## The problem with running ActiveRecord without having knowledge of rails
 
-text text text
+The biggest problem that I've noticed for myself is that Rails was also designed with active web applications in mid, running databases, as the tutorials I've found so far for Rails includes a login tutorial.
+
+For me, learning the language that was kept in mind when creating AR would give me a lot more functionality and more space for developing Puppr. I want to be able to manage all my files conviently like Rails has to offer.
+
 
 ## Internectivity of everything
 
 ### All this will come full circle
 
-text text text
-
-text text text
+When choosing to learn about databases, I didn't think I'd fall into subsections of subsections and learn more than SQL. 
+While dealing with databases, I have to be careful, because I'll be dealing with client information once the application is up and runnig. I would need to be able to protect myself from SQL attacks, be careful with passwords not being leaked, and be careful with sensitive information.
+Huge companies get attacked all the time. Recently [Edmodo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwiu8YD4vPnTAhWCSiYKHVM7DYoQqUMIPTAH&url=https%3A%2F%2Fwww.grahamcluley.com%2Fedmodo-hackers-breached-education-platform-stole-user-data-hashed-passwords%2F&usg=AFQjCNGOHNvU1XG0O8XJaTZCL9D-wP4xsg) got 77 MILLION accounts 'stolen', as in usernames, emails, and password hashes ahve been stolen from the corporation. They have not been comprimised, being that the password hashes have been encrypted tight enough to prevent accounts from being taken over.
 
 ## Takeaways
 
-1. When browsing for a tutorial, choose something that is at most **two** years old if it involves code. A lot can happen in two years.
+Be careful when planning on working with information that includes passwords or credit cards. The idea of hosting accounts is scary, because now in age, anything can happen.
 
-2. Keep a mental, or physical, list of different app ideas that can solve mundane problems, or solve world hunger! (**[Google Keep](https://www.google.com/keep/)** is a personal favorite).
-
-3. Don't let your frustration hold you back from what you think of in terms of programming. I spent 30 minutes on figuring out how to insert that image of the dog you saw earlier; I could have easily given up and forgotten about it, but that wouldn't have been fun. 
-    > P.S. To embed an image for markdown it was `<img src="imageName.jpg"/>`, but C9 (my IDE) didn't want to display the image. It wasn't until I pushed to GitHub that my image showed up.   
-
-3/25/2017
 [Next](entry06-whyrailswashelpful.md)
 
 [Table of Contents](../README.md)
